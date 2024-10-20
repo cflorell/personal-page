@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/about/</loc>
+    <loc>https://florell.dev/about/about/</loc>
     <lastmod>2024-10-20T15:03:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://florell.dev/about/</loc>
     <lastmod>2024-10-20T15:03:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://florell.dev/</loc>
     <lastmod>2024-10-20T15:03:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/10/first-post/</loc>
+    <loc>https://florell.dev/posts/2024/10/first-post/</loc>
     <lastmod>2024-10-20T14:58:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://florell.dev/posts/</loc>
     <lastmod>2024-10-20T14:58:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://florell.dev/tags/</loc>
     <lastmod>2024-10-20T14:58:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/untagged/</loc>
+    <loc>https://florell.dev/tags/untagged/</loc>
     <lastmod>2024-10-20T14:58:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://florell.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://florell.dev/series/</loc>
   </url>
 </urlset>
